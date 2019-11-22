@@ -7,6 +7,8 @@
 # page 29./ex. 2. (polish edition)
 # The program displays the name and waits for "Enter" 
 
-print("Przemysław")
+print("Tomasz")
+print()
+print()
 print()
 input()
